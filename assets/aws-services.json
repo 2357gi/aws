@@ -266,7 +266,7 @@
       "id": "cfo",
       "title": "CloudFormation",
       "subtitle": "Create and Manage Resources with Templates",
-      "match": "cfo CloudFormation",
+      "match": "cfo cfn CloudFormation",
       "arg": "/cloudformation/home",
       "autocomplete": "CloudFormation",
       "icon": {
@@ -2146,7 +2146,7 @@
       "id": "states",
       "title": "Step Functions",
       "subtitle": "Coordinate Distributed Applications",
-      "match": "states Step Functions",
+      "match": "states sfn Step Functions",
       "arg": "/states/home",
       "autocomplete": "Step Functions",
       "icon": {
